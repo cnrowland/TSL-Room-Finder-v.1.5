@@ -1,12 +1,12 @@
-This site is based on a them from Start Bootstrap called creative
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# TSL Room Finder
+
+This webapp is based on a theme from Start Bootstrap called Creative
 
 ## Basics
 
-This web app uses Firebase, Angular Fire and Angular JS to create the MVC 
-It uses Bootstrap as the main element of the UI
+This Single Page web app uses Firebase, Angular Fire and Angular JS to create the MVC 
+It uses Bootstrap as the main element of the UI with some extra plugins for the scrolling effect etc
 
 ## Bugs and Issues
 
